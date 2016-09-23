@@ -1,0 +1,1 @@
+python Q1.py 2 "hw0_data.dat"
